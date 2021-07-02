@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 30px;
+  background-color: white;
+}
+
+.intro {
+  width: 800px;
+  margin: auto;
+  padding: 50px;
+  background-color: #d85757;
+}
+
+.intro h1 {
+  margin: 30px auto;
+  font-weight: 800;
+  text-align: center;
+}
+
+.intro h2 {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.intro img {
+  width: 400px;
+}
+/*# sourceMappingURL=main.css.map */
